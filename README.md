@@ -19,6 +19,15 @@ results of this paper and improve them.
 Deep learning, convolutional neural network, TensorFlow, TPU,
 image segmentation, U-Net, deforestation.
 
+## Inspiration
+
+1. Laurence Moroney guide for distributed training: https://www.coursera.org/lecture/custom-distributed-training-with-tensorflow/tpu-strategy-etSkY
+2. U-Net: Convolutional Networks for BiomedicalImage Segmentation: https://arxiv.org/pdf/1505.04597.pdf
+3. AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volumeSegmentation of Head and Neck Anatomy: https://arxiv.org/pdf/1808.05238.pdf
+4. Tfrecords tutorial: https://www.tensorflow.org/tutorials/load_data/tfrecord
+5. Chest X-Ray Analysis of Tuberculosis by Deep Learning with Segmentation and Augmentation: https://arxiv.org/ftp/arxiv/papers/1803/1803.01199.pdf
+
+
 ## Dataset
 
 To display images saved in Dataset/deforestation_dataset.tar.gz you should extract tfrecords files from it and run next code example with tfrecord specifications.
