@@ -2,6 +2,10 @@
 
 [![Open TPU_Training_Strategy in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/BioWar/Satellite-Image-Segmentation-using-Deep-Learning-for-Deforestation-Detection/blob/main/Model_Training_TPU_Strategy.ipynb)<br>
 
+**Dataset link to Google Drive:** https://drive.google.com/drive/folders/1z96jnNwC0NSxggXsBcfnmoe-FiniOr-t?usp=sharing
+
+**Pretrained model link to Google Drive:** https://drive.google.com/file/d/1Z0oIc3lc7VFNDclUnOTma2eZg4UTJmBg/view?usp=sharing
+
 ## Abstract
 
 The past years automation process of various tasks using Deep
