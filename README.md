@@ -70,3 +70,9 @@ def get_example(dataset_path, image_num):
   mask = tf.cast(mask, tf.float32)
   return image, mask
 ```
+
+### UPD *[8 December 2024]*
+
+Right now only available copy of the dataset is stored on Google Drive: https://drive.google.com/drive/folders/1z96jnNwC0NSxggXsBcfnmoe-FiniOr-t
+
+In format of `images/image001.png` and `masks/mask001.png`. There you could also find some additional miscellaneous material.
